@@ -17,6 +17,7 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=qwedc001&show_icons=true&locale=en" alt="qwedc001" /></p>
 
+## Recent Activities
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#10863](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10863#issuecomment-2424809957) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 2. ❌ Closed PR [#10863](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10863) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
