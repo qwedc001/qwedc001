@@ -19,9 +19,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#162](https://github.com/acmerindex/acmer-info/pull/162) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922#issuecomment-2438097544) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-3. 💪 Opened PR [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-4. 🗣 Commented on [#10863](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10863#issuecomment-2424809957) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-5. ❌ Closed PR [#10863](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10863) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+1. 🗣 Commented on [#707](https://github.com/hiroi-sora/Umi-OCR/pull/707#issuecomment-2441718735) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+2. 💪 Opened PR [#162](https://github.com/acmerindex/acmer-info/pull/162) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922#issuecomment-2438097544) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+4. 💪 Opened PR [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+5. 🗣 Commented on [#10863](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10863#issuecomment-2424809957) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 <!--END_SECTION:activity-->
