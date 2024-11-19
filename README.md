@@ -19,9 +19,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10869](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10869#issuecomment-2445729237) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-2. 🗣 Commented on [#707](https://github.com/hiroi-sora/Umi-OCR/pull/707#issuecomment-2441718735) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-3. 💪 Opened PR [#162](https://github.com/acmerindex/acmer-info/pull/162) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922#issuecomment-2438097544) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-5. 💪 Opened PR [#10922](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10922) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+1. 🗣 Commented on [#725](https://github.com/hiroi-sora/Umi-OCR/issues/725#issuecomment-2484653011) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+2. 🗣 Commented on [#725](https://github.com/hiroi-sora/Umi-OCR/issues/725#issuecomment-2484650399) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+3. 🗣 Commented on [#10869](https://github.com/MaaAssistantArknights/MaaAssistantArknights/pull/10869#issuecomment-2445729237) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+4. 🗣 Commented on [#707](https://github.com/hiroi-sora/Umi-OCR/pull/707#issuecomment-2441718735) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+5. 💪 Opened PR [#162](https://github.com/acmerindex/acmer-info/pull/162) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
