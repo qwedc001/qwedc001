@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm qwedc001</h1>
 <h3 align="center">a 2nd year student at Qilu University of Technology.</h3>
+<h3 align="center">Currently I'm a member of <a href="https://github.com/acmerindex">@acmerindex</a> and <a href="https://github.com/PaddlePaddle/community/tree/master/pfcc">Paddle Framework Contributor Club (PFCC)</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwedc001&label=Profile%20views&color=0e75b6&style=flat" alt="qwedc001" /> </p>
 
