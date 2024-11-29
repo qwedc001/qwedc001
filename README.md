@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
-2. ❗ Opened issue [#436](https://github.com/OIerDb-ng/OIerDb-data-generator/issues/436) in [OIerDb-ng/OIerDb-data-generator](https://github.com/OIerDb-ng/OIerDb-data-generator)
-3. 🗣 Commented on [#727](https://github.com/hiroi-sora/Umi-OCR/issues/727#issuecomment-2487455392) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-4. 🗣 Commented on [#725](https://github.com/hiroi-sora/Umi-OCR/issues/725#issuecomment-2484653011) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-5. 🗣 Commented on [#725](https://github.com/hiroi-sora/Umi-OCR/issues/725#issuecomment-2484650399) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+1. 🗣 Commented on [#4](https://github.com/hydro-dev/xcpc-tools/issues/4#issuecomment-2508244891) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+2. 🔒 Closed issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+3. ❗ Opened issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+4. ❗ Opened issue [#436](https://github.com/OIerDb-ng/OIerDb-data-generator/issues/436) in [OIerDb-ng/OIerDb-data-generator](https://github.com/OIerDb-ng/OIerDb-data-generator)
+5. 🗣 Commented on [#727](https://github.com/hiroi-sora/Umi-OCR/issues/727#issuecomment-2487455392) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 <!--END_SECTION:activity-->
