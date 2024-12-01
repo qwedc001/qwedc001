@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/hydro-dev/xcpc-tools/issues/4#issuecomment-2508244891) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
-2. 🔒 Closed issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
-3. ❗ Opened issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
-4. ❗ Opened issue [#436](https://github.com/OIerDb-ng/OIerDb-data-generator/issues/436) in [OIerDb-ng/OIerDb-data-generator](https://github.com/OIerDb-ng/OIerDb-data-generator)
-5. 🗣 Commented on [#727](https://github.com/hiroi-sora/Umi-OCR/issues/727#issuecomment-2487455392) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+1. 🗣 Commented on [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262#issuecomment-2509547584) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+2. ❗ Opened issue [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+3. 🗣 Commented on [#4](https://github.com/hydro-dev/xcpc-tools/issues/4#issuecomment-2508244891) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+4. 🔒 Closed issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+5. ❗ Opened issue [#4](https://github.com/hydro-dev/xcpc-tools/issues/4) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
 <!--END_SECTION:activity-->
