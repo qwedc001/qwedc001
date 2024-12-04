@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2869](https://github.com/DOMjudge/domjudge/issues/2869#issuecomment-2514784721) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
-2. ❗ Opened issue [#2869](https://github.com/DOMjudge/domjudge/issues/2869) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
-3. 🗣 Commented on [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262#issuecomment-2509547584) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-4. ❗ Opened issue [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-5. 🗣 Commented on [#4](https://github.com/hydro-dev/xcpc-tools/issues/4#issuecomment-2508244891) in [hydro-dev/xcpc-tools](https://github.com/hydro-dev/xcpc-tools)
+1. 🔒 Closed issue [#2869](https://github.com/DOMjudge/domjudge/issues/2869) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+2. 🗣 Commented on [#2869](https://github.com/DOMjudge/domjudge/issues/2869#issuecomment-2514784721) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+3. ❗ Opened issue [#2869](https://github.com/DOMjudge/domjudge/issues/2869) in [DOMjudge/domjudge](https://github.com/DOMjudge/domjudge)
+4. 🗣 Commented on [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262#issuecomment-2509547584) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+5. ❗ Opened issue [#11262](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/11262) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 <!--END_SECTION:activity-->
