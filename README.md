@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#763](https://github.com/hiroi-sora/Umi-OCR/issues/763#issuecomment-2586159980) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-2. 💪 Opened PR [#173](https://github.com/acmerindex/acmer-info/pull/173) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🎉 Merged PR [#1](https://github.com/qwedc001/acmer-info/pull/1) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-4. 💪 Opened PR [#1](https://github.com/qwedc001/acmer-info/pull/1) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-5. 💪 Opened PR [#170](https://github.com/acmerindex/acmer-info/pull/170) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. ❗ Opened issue [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
+2. 🗣 Commented on [#763](https://github.com/hiroi-sora/Umi-OCR/issues/763#issuecomment-2586159980) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+3. 💪 Opened PR [#173](https://github.com/acmerindex/acmer-info/pull/173) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🎉 Merged PR [#1](https://github.com/qwedc001/acmer-info/pull/1) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+5. 💪 Opened PR [#1](https://github.com/qwedc001/acmer-info/pull/1) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 <!--END_SECTION:activity-->
