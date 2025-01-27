@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/5) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-2. 💪 Opened PR [#5](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/5) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-3. 🗣 Commented on [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182#issuecomment-2611672924) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
-4. 🔒 Closed issue [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
-5. ❗ Opened issue [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
+1. 🗣 Commented on [#772](https://github.com/hiroi-sora/Umi-OCR/issues/772#issuecomment-2614933610) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+2. 🎉 Merged PR [#5](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/5) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+3. 💪 Opened PR [#5](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/5) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+4. 🗣 Commented on [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182#issuecomment-2611672924) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
+5. 🔒 Closed issue [#182](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere/issues/182) in [MountainDash/nonebot-plugin-send-anything-anywhere](https://github.com/MountainDash/nonebot-plugin-send-anything-anywhere)
 <!--END_SECTION:activity-->
