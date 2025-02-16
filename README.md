@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/acmerindex/acmer-info/issues/177#issuecomment-2661480028) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#177](https://github.com/acmerindex/acmer-info/issues/177) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#178](https://github.com/acmerindex/acmer-info/issues/178) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#772](https://github.com/hiroi-sora/Umi-OCR/issues/772#issuecomment-2614933610) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-5. 🎉 Merged PR [#5](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/5) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
+1. 🗣 Commented on [#179](https://github.com/acmerindex/acmer-info/issues/179#issuecomment-2661485390) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🔒 Closed issue [#179](https://github.com/acmerindex/acmer-info/issues/179) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#177](https://github.com/acmerindex/acmer-info/issues/177#issuecomment-2661480028) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#177](https://github.com/acmerindex/acmer-info/issues/177) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🔒 Closed issue [#178](https://github.com/acmerindex/acmer-info/issues/178) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
