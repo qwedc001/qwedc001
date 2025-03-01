@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#787](https://github.com/hiroi-sora/Umi-OCR/issues/787#issuecomment-2687935297) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-2. 🎉 Merged PR [#180](https://github.com/acmerindex/acmer-info/pull/180) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🗣 Commented on [#180](https://github.com/acmerindex/acmer-info/pull/180#issuecomment-2669202627) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 💪 Opened PR [#180](https://github.com/acmerindex/acmer-info/pull/180) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#179](https://github.com/acmerindex/acmer-info/issues/179#issuecomment-2661485390) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🎉 Merged PR [#181](https://github.com/acmerindex/acmer-info/pull/181) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🗣 Commented on [#787](https://github.com/hiroi-sora/Umi-OCR/issues/787#issuecomment-2687935297) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+3. 🎉 Merged PR [#180](https://github.com/acmerindex/acmer-info/pull/180) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🗣 Commented on [#180](https://github.com/acmerindex/acmer-info/pull/180#issuecomment-2669202627) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 💪 Opened PR [#180](https://github.com/acmerindex/acmer-info/pull/180) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
