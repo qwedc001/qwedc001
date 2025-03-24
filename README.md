@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#809](https://github.com/hiroi-sora/Umi-OCR/pull/809) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-2. 🗣 Commented on [#798](https://github.com/hiroi-sora/Umi-OCR/issues/798#issuecomment-2713670347) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-3. 🗣 Commented on [#797](https://github.com/hiroi-sora/Umi-OCR/issues/797#issuecomment-2713666056) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-4. ❗ Opened issue [#70](https://github.com/hydro-dev/hydro-dev.github.io/issues/70) in [hydro-dev/hydro-dev.github.io](https://github.com/hydro-dev/hydro-dev.github.io)
-5. 🗣 Commented on [#778](https://github.com/hiroi-sora/Umi-OCR/issues/778#issuecomment-2708194097) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+1. 🎉 Merged PR [#184](https://github.com/acmerindex/acmer-info/pull/184) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 💪 Opened PR [#809](https://github.com/hiroi-sora/Umi-OCR/pull/809) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+3. 🗣 Commented on [#798](https://github.com/hiroi-sora/Umi-OCR/issues/798#issuecomment-2713670347) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+4. 🗣 Commented on [#797](https://github.com/hiroi-sora/Umi-OCR/issues/797#issuecomment-2713666056) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+5. ❗ Opened issue [#70](https://github.com/hydro-dev/hydro-dev.github.io/issues/70) in [hydro-dev/hydro-dev.github.io](https://github.com/hydro-dev/hydro-dev.github.io)
 <!--END_SECTION:activity-->
