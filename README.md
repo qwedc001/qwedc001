@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#185](https://github.com/acmerindex/acmer-info/pull/185) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#831](https://github.com/hiroi-sora/Umi-OCR/issues/831#issuecomment-2765167079) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-3. 🗣 Commented on [#12](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/12#issuecomment-2753200105) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
-4. 🗣 Commented on [#823](https://github.com/hiroi-sora/Umi-OCR/issues/823#issuecomment-2753198992) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-5. 🎉 Merged PR [#184](https://github.com/acmerindex/acmer-info/pull/184) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#664](https://github.com/MaiM-with-u/MaiBot/issues/664#issuecomment-2778952616) in [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)
+2. ❗ Opened issue [#664](https://github.com/MaiM-with-u/MaiBot/issues/664) in [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)
+3. 🎉 Merged PR [#185](https://github.com/acmerindex/acmer-info/pull/185) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🗣 Commented on [#831](https://github.com/hiroi-sora/Umi-OCR/issues/831#issuecomment-2765167079) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+5. 🗣 Commented on [#12](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot/pull/12#issuecomment-2753200105) in [Floating-Ocean/FJNU_OJ_Peeper_Bot](https://github.com/Floating-Ocean/FJNU_OJ_Peeper_Bot)
 <!--END_SECTION:activity-->
