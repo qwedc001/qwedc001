@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#191](https://github.com/acmerindex/acmer-info/pull/191) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#191](https://github.com/acmerindex/acmer-info/pull/191#issuecomment-2895210088) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🗣 Commented on [#190](https://github.com/acmerindex/acmer-info/pull/190#issuecomment-2895114926) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🎉 Merged PR [#189](https://github.com/acmerindex/acmer-info/pull/189) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#664](https://github.com/MaiM-with-u/MaiBot/issues/664#issuecomment-2778952616) in [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)
+1. 🎉 Merged PR [#190](https://github.com/acmerindex/acmer-info/pull/190) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ❌ Closed PR [#191](https://github.com/acmerindex/acmer-info/pull/191) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#191](https://github.com/acmerindex/acmer-info/pull/191#issuecomment-2895210088) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🗣 Commented on [#190](https://github.com/acmerindex/acmer-info/pull/190#issuecomment-2895114926) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🎉 Merged PR [#189](https://github.com/acmerindex/acmer-info/pull/189) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
