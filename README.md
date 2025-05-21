@@ -20,8 +20,8 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#189](https://github.com/acmerindex/acmer-info/pull/189) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#20](https://github.com/Bylx666/key-lang/issues/20) in [Bylx666/key-lang](https://github.com/Bylx666/key-lang)
+1. 🗣 Commented on [#190](https://github.com/acmerindex/acmer-info/pull/190#issuecomment-2895114926) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🎉 Merged PR [#189](https://github.com/acmerindex/acmer-info/pull/189) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 3. 🗣 Commented on [#844](https://github.com/hiroi-sora/Umi-OCR/issues/844#issuecomment-2785084609) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 4. 🎉 Merged PR [#45](https://github.com/qwedc001/Peeper-Board-Generator/pull/45) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 5. 🗣 Commented on [#664](https://github.com/MaiM-with-u/MaiBot/issues/664#issuecomment-2778952616) in [MaiM-with-u/MaiBot](https://github.com/MaiM-with-u/MaiBot)
