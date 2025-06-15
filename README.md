@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#192](https://github.com/acmerindex/acmer-info/pull/192) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 💪 Opened PR [#192](https://github.com/acmerindex/acmer-info/pull/192) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🎉 Merged PR [#190](https://github.com/acmerindex/acmer-info/pull/190) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. ❌ Closed PR [#191](https://github.com/acmerindex/acmer-info/pull/191) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#191](https://github.com/acmerindex/acmer-info/pull/191#issuecomment-2895210088) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#10908](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/10908#issuecomment-2973713876) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+2. 🎉 Merged PR [#192](https://github.com/acmerindex/acmer-info/pull/192) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 💪 Opened PR [#192](https://github.com/acmerindex/acmer-info/pull/192) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🎉 Merged PR [#190](https://github.com/acmerindex/acmer-info/pull/190) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. ❌ Closed PR [#191](https://github.com/acmerindex/acmer-info/pull/191) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
