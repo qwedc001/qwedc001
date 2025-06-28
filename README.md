@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#195](https://github.com/acmerindex/acmer-info/issues/195) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🎉 Merged PR [#196](https://github.com/acmerindex/acmer-info/pull/196) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 💪 Opened PR [#196](https://github.com/acmerindex/acmer-info/pull/196) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#10908](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/10908#issuecomment-2973713876) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-5. 🎉 Merged PR [#192](https://github.com/acmerindex/acmer-info/pull/192) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 💪 Opened PR [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 🗣 Commented on [#46](https://github.com/qwedc001/Peeper-Board-Generator/issues/46#issuecomment-3013175727) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 🔒 Closed issue [#195](https://github.com/acmerindex/acmer-info/issues/195) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🎉 Merged PR [#196](https://github.com/acmerindex/acmer-info/pull/196) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 💪 Opened PR [#196](https://github.com/acmerindex/acmer-info/pull/196) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
