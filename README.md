@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#38](https://github.com/qwedc001/Peeper-Board-Generator/issues/38) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-2. 🔒 Closed issue [#46](https://github.com/qwedc001/Peeper-Board-Generator/issues/46) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 🎉 Merged PR [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 🗣 Commented on [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47#issuecomment-3013232864) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. 💪 Opened PR [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. ❗ Opened issue [#1](https://github.com/NullResot/xcpc/issues/1) in [NullResot/xcpc](https://github.com/NullResot/xcpc)
+2. 🔒 Closed issue [#38](https://github.com/qwedc001/Peeper-Board-Generator/issues/38) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 🔒 Closed issue [#46](https://github.com/qwedc001/Peeper-Board-Generator/issues/46) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. 🎉 Merged PR [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. 🗣 Commented on [#47](https://github.com/qwedc001/Peeper-Board-Generator/pull/47#issuecomment-3013232864) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
