@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-2. 🎉 Merged PR [#6](https://github.com/qwedc001/acmer-info/pull/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-3. ❗ Opened issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-4. 🎉 Merged PR [#4](https://github.com/qwedc001/acmer-info/pull/4) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-5. 💪 Opened PR [#4](https://github.com/qwedc001/acmer-info/pull/4) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+1. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3053570400) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+3. 🎉 Merged PR [#6](https://github.com/qwedc001/acmer-info/pull/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+4. ❗ Opened issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+5. 🎉 Merged PR [#4](https://github.com/qwedc001/acmer-info/pull/4) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 <!--END_SECTION:activity-->
