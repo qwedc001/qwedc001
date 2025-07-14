@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3053570400) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-3. 🎉 Merged PR [#6](https://github.com/qwedc001/acmer-info/pull/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-4. ❗ Opened issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-5. 🎉 Merged PR [#4](https://github.com/qwedc001/acmer-info/pull/4) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+1. 🔒 Closed issue [#48](https://github.com/qwedc001/Peeper-Board-Generator/issues/48) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. 🎉 Merged PR [#49](https://github.com/qwedc001/Peeper-Board-Generator/pull/49) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3053570400) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+5. 🎉 Merged PR [#6](https://github.com/qwedc001/acmer-info/pull/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 <!--END_SECTION:activity-->
