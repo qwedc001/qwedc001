@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod/issues/2#issuecomment-3071660944) in [MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod)
-2. ❗ Opened issue [#2](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod/issues/2) in [MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod)
-3. 🔒 Closed issue [#48](https://github.com/qwedc001/Peeper-Board-Generator/issues/48) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 🎉 Merged PR [#49](https://github.com/qwedc001/Peeper-Board-Generator/pull/49) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3053570400) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#848](https://github.com/hiroi-sora/Umi-OCR/issues/848#issuecomment-3078535724) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+2. 🗣 Commented on [#2](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod/issues/2#issuecomment-3071660944) in [MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod)
+3. ❗ Opened issue [#2](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod/issues/2) in [MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod)
+4. 🔒 Closed issue [#48](https://github.com/qwedc001/Peeper-Board-Generator/issues/48) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. 🎉 Merged PR [#49](https://github.com/qwedc001/Peeper-Board-Generator/pull/49) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 <!--END_SECTION:activity-->
