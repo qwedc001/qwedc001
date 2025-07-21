@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#52](https://github.com/qwedc001/Peeper-Board-Generator/pull/52) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-2. 🎉 Merged PR [#51](https://github.com/qwedc001/Peeper-Board-Generator/pull/51) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 🎉 Merged PR [#50](https://github.com/qwedc001/Peeper-Board-Generator/pull/50) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 🗣 Commented on [#848](https://github.com/hiroi-sora/Umi-OCR/issues/848#issuecomment-3078535724) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
-5. 🗣 Commented on [#2](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod/issues/2#issuecomment-3071660944) in [MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod](https://github.com/MiaoluoYuanlina/AliceinCradle_BepInEx_XiaoMiaoICa-Mod)
+1. 💪 Opened PR [#202](https://github.com/acmerindex/acmer-info/pull/202) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🎉 Merged PR [#52](https://github.com/qwedc001/Peeper-Board-Generator/pull/52) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+3. 🎉 Merged PR [#51](https://github.com/qwedc001/Peeper-Board-Generator/pull/51) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+4. 🎉 Merged PR [#50](https://github.com/qwedc001/Peeper-Board-Generator/pull/50) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+5. 🗣 Commented on [#848](https://github.com/hiroi-sora/Umi-OCR/issues/848#issuecomment-3078535724) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
 <!--END_SECTION:activity-->
