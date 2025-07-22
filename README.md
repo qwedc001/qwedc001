@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#202](https://github.com/acmerindex/acmer-info/pull/202) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🎉 Merged PR [#52](https://github.com/qwedc001/Peeper-Board-Generator/pull/52) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 🎉 Merged PR [#51](https://github.com/qwedc001/Peeper-Board-Generator/pull/51) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-4. 🎉 Merged PR [#50](https://github.com/qwedc001/Peeper-Board-Generator/pull/50) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-5. 🗣 Commented on [#848](https://github.com/hiroi-sora/Umi-OCR/issues/848#issuecomment-3078535724) in [hiroi-sora/Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)
+1. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3097677138) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ❗ Opened issue [#10](https://github.com/qwedc001/acmer-info/issues/10) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+3. 🎉 Merged PR [#9](https://github.com/qwedc001/acmer-info/pull/9) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+4. 💪 Opened PR [#9](https://github.com/qwedc001/acmer-info/pull/9) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+5. ❗ Opened issue [#8](https://github.com/qwedc001/acmer-info/issues/8) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 <!--END_SECTION:activity-->
