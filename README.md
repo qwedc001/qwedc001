@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#294](https://github.com/beijixiaohu/OJBetter/issues/294) in [beijixiaohu/OJBetter](https://github.com/beijixiaohu/OJBetter)
-2. 🎉 Merged PR [#53](https://github.com/qwedc001/Peeper-Board-Generator/pull/53) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. 🗣 Commented on [#201](https://github.com/acmerindex/acmer-info/pull/201#issuecomment-3097677138) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🎉 Merged PR [#54](https://github.com/qwedc001/Peeper-Board-Generator/pull/54) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. ❗ Opened issue [#294](https://github.com/beijixiaohu/OJBetter/issues/294) in [beijixiaohu/OJBetter](https://github.com/beijixiaohu/OJBetter)
+3. 🎉 Merged PR [#53](https://github.com/qwedc001/Peeper-Board-Generator/pull/53) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 4. ❗ Opened issue [#10](https://github.com/qwedc001/acmer-info/issues/10) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 5. 🎉 Merged PR [#9](https://github.com/qwedc001/acmer-info/pull/9) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 <!--END_SECTION:activity-->
