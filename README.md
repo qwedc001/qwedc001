@@ -20,8 +20,8 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#88](https://github.com/ossrs/srs-docs/issues/88) in [ossrs/srs-docs](https://github.com/ossrs/srs-docs)
-2. ❌ Assigned PR [#34](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+1. 🎉 Merged PR [#54](https://github.com/qwedc001/Peeper-Board-Generator/pull/54) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+2. ❗ Opened issue [#294](https://github.com/beijixiaohu/OJBetter/issues/294) in [beijixiaohu/OJBetter](https://github.com/beijixiaohu/OJBetter)
 3. ❌ Labeled PR [#34](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 4. ❌ Labeled PR [#34](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 5. 💪 Opened PR [#34](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
