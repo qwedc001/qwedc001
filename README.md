@@ -20,7 +20,7 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#203](https://github.com/acmerindex/acmer-info/issues/203) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🎉 Merged PR [#54](https://github.com/qwedc001/Peeper-Board-Generator/pull/54) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 2.  Labeled issue [#14138](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/14138) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 3. ❗ Opened issue [#14138](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/14138) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
 4. ❗ Opened issue [#88](https://github.com/ossrs/srs-docs/issues/88) in [ossrs/srs-docs](https://github.com/ossrs/srs-docs)
