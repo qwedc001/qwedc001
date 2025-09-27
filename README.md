@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#203](https://github.com/acmerindex/acmer-info/issues/203) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2.  Labeled issue [#14138](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/14138) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
-3. ❗ Opened issue [#14138](https://github.com/MaaAssistantArknights/MaaAssistantArknights/issues/14138) in [MaaAssistantArknights/MaaAssistantArknights](https://github.com/MaaAssistantArknights/MaaAssistantArknights)
+1. 🔒 Closed issue [#208](https://github.com/acmerindex/acmer-info/issues/208) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🎉 Merged PR [#209](https://github.com/acmerindex/acmer-info/pull/209) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. ❗ Opened issue [#208](https://github.com/acmerindex/acmer-info/issues/208) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 4. ❗ Opened issue [#88](https://github.com/ossrs/srs-docs/issues/88) in [ossrs/srs-docs](https://github.com/ossrs/srs-docs)
 5. 💪 Opened PR [#34](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
