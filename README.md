@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#214](https://github.com/acmerindex/acmer-info/issues/214) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🎉 Merged PR [#215](https://github.com/acmerindex/acmer-info/pull/215) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#220](https://github.com/acmerindex/acmer-info/issues/220) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🎉 Merged PR [#221](https://github.com/acmerindex/acmer-info/pull/221) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#219](https://github.com/acmerindex/acmer-info/pull/219#issuecomment-3341398135) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#114](https://github.com/Floating-Ocean/OBot-ACM/pull/114#issuecomment-3389212897) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. 🔒 Closed issue [#214](https://github.com/acmerindex/acmer-info/issues/214) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🎉 Merged PR [#215](https://github.com/acmerindex/acmer-info/pull/215) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#220](https://github.com/acmerindex/acmer-info/issues/220) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🎉 Merged PR [#221](https://github.com/acmerindex/acmer-info/pull/221) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
