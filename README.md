@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#112](https://github.com/Floating-Ocean/OBot-ACM/pull/112) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-2. 🗣 Commented on [#114](https://github.com/Floating-Ocean/OBot-ACM/pull/114#issuecomment-3389212897) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-3. 🔒 Closed issue [#214](https://github.com/acmerindex/acmer-info/issues/214) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🎉 Merged PR [#215](https://github.com/acmerindex/acmer-info/pull/215) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🔒 Closed issue [#220](https://github.com/acmerindex/acmer-info/issues/220) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#114](https://github.com/Floating-Ocean/OBot-ACM/pull/114#issuecomment-3389212897) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+2. ❌ Closed PR [#60](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+3. ❌ Closed PR [#58](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+4. ❌ Closed PR [#57](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
+5. ❌ Closed PR [#56](undefined) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
 <!--END_SECTION:activity-->
