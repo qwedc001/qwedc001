@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#225](https://github.com/acmerindex/acmer-info/pull/225#issuecomment-3471647905) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. ❌ Closed PR [#225](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🗣 Commented on [#224](https://github.com/acmerindex/acmer-info/pull/224#issuecomment-3450906225) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#116](https://github.com/Floating-Ocean/OBot-ACM/pull/116#issuecomment-3414791767) in [Floating-Ocean/OBot-ACM](https://github.com/Floating-Ocean/OBot-ACM)
-5. 🗣 Commented on [#57](https://github.com/qwedc001/Peeper-Board-Generator/pull/57#issuecomment-3405567065) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. 🔒 Closed issue [#226](https://github.com/acmerindex/acmer-info/issues/226) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ❌ Closed PR [#1](undefined) in [cuibinge/MachineLearningLab](https://github.com/cuibinge/MachineLearningLab)
+3. 🗣 Commented on [#225](https://github.com/acmerindex/acmer-info/pull/225#issuecomment-3471647905) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. ❌ Closed PR [#225](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🗣 Commented on [#224](https://github.com/acmerindex/acmer-info/pull/224#issuecomment-3450906225) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
