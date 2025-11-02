@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#228](https://github.com/acmerindex/acmer-info/issues/228#issuecomment-3477396649) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#226](https://github.com/acmerindex/acmer-info/issues/226) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. ❌ Closed PR [#1](undefined) in [cuibinge/MachineLearningLab](https://github.com/cuibinge/MachineLearningLab)
-4. 🗣 Commented on [#225](https://github.com/acmerindex/acmer-info/pull/225#issuecomment-3471647905) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. ❌ Closed PR [#225](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. ❌ Closed PR [#229](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🔒 Closed issue [#230](https://github.com/acmerindex/acmer-info/issues/230) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🔒 Closed issue [#228](https://github.com/acmerindex/acmer-info/issues/228) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🗣 Commented on [#228](https://github.com/acmerindex/acmer-info/issues/228#issuecomment-3477826531) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5.  Assigned issue [#230](https://github.com/acmerindex/acmer-info/issues/230) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
