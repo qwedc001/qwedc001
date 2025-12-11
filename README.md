@@ -20,8 +20,8 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#229](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#230](https://github.com/acmerindex/acmer-info/issues/230) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1.  Labeled issue [#2](https://github.com/MistEO/MaaMCP/issues/2) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
+2. ❗ Opened issue [#2](https://github.com/MistEO/MaaMCP/issues/2) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
 3. 🔒 Closed issue [#228](https://github.com/acmerindex/acmer-info/issues/228) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 4. 🗣 Commented on [#228](https://github.com/acmerindex/acmer-info/issues/228#issuecomment-3477826531) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 5.  Assigned issue [#230](https://github.com/acmerindex/acmer-info/issues/230) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
