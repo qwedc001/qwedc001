@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/MistEO/MaaMCP/issues/2#issuecomment-3640875121) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
-2. 🗣 Commented on [#2](https://github.com/MistEO/MaaMCP/issues/2#issuecomment-3640865770) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
-3. 🗣 Commented on [#2](https://github.com/MistEO/MaaMCP/issues/2#issuecomment-3640413570) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
-4. 🗣 Commented on [#2](https://github.com/MistEO/MaaMCP/issues/2#issuecomment-3640331772) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
-5. 🗣 Commented on [#2](https://github.com/MistEO/MaaMCP/issues/2#issuecomment-3640313068) in [MistEO/MaaMCP](https://github.com/MistEO/MaaMCP)
+1. 🗣 Commented on [#2](https://github.com/MaaXYZ/MaaMCP/issues/2#issuecomment-3640875121) in [MaaXYZ/MaaMCP](https://github.com/MaaXYZ/MaaMCP)
+2. 🗣 Commented on [#2](https://github.com/MaaXYZ/MaaMCP/issues/2#issuecomment-3640865770) in [MaaXYZ/MaaMCP](https://github.com/MaaXYZ/MaaMCP)
+3. 🗣 Commented on [#2](https://github.com/MaaXYZ/MaaMCP/issues/2#issuecomment-3640413570) in [MaaXYZ/MaaMCP](https://github.com/MaaXYZ/MaaMCP)
+4. 🗣 Commented on [#2](https://github.com/MaaXYZ/MaaMCP/issues/2#issuecomment-3640331772) in [MaaXYZ/MaaMCP](https://github.com/MaaXYZ/MaaMCP)
+5. 🗣 Commented on [#2](https://github.com/MaaXYZ/MaaMCP/issues/2#issuecomment-3640313068) in [MaaXYZ/MaaMCP](https://github.com/MaaXYZ/MaaMCP)
 <!--END_SECTION:activity-->
