@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#240](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640875121) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
-3. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640865770) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
-4. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640413570) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
-5. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640331772) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
+1. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3691563111) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 💪 Opened PR [#240](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640875121) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
+4. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640865770) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
+5. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640413570) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
 <!--END_SECTION:activity-->
