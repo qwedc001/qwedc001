@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3692829002) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3692081671) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3691563111) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 💪 Opened PR [#240](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#2](https://github.com/MAA-AI/MaaMCP/issues/2#issuecomment-3640875121) in [MAA-AI/MaaMCP](https://github.com/MAA-AI/MaaMCP)
+1. ❌ Closed PR [#1](undefined) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+2. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3692829002) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3692081671) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3691563111) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 💪 Opened PR [#240](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
