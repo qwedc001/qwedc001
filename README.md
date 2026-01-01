@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#240](undefined) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🎉 Merged PR [#240](https://github.com/acmerindex/acmer-info/pull/240) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 2. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3695558803) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 3. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3693148786) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. ❌ Closed PR [#1](undefined) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+4. ❌ Closed PR [#1](https://github.com/qwedc001/acmer-info/pull/1) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
 5. 🗣 Commented on [#240](https://github.com/acmerindex/acmer-info/pull/240#issuecomment-3692829002) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
