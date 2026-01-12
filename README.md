@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned issue [#245](https://github.com/acmerindex/acmer-info/issues/245) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. ❗ Opened issue [#245](https://github.com/acmerindex/acmer-info/issues/245) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🎉 Merged PR [#244](https://github.com/acmerindex/acmer-info/pull/244) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 💪 Opened PR [#244](https://github.com/acmerindex/acmer-info/pull/244) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🎉 Merged PR [#240](https://github.com/acmerindex/acmer-info/pull/240) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. ℹ️ Assigned issue [#246](https://github.com/acmerindex/acmer-info/issues/246) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ℹ️ Labeled issue [#246](https://github.com/acmerindex/acmer-info/issues/246) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. ❗ Opened issue [#246](https://github.com/acmerindex/acmer-info/issues/246) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#245](https://github.com/acmerindex/acmer-info/issues/245) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. ℹ️ Assigned issue [#245](https://github.com/acmerindex/acmer-info/issues/245) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
