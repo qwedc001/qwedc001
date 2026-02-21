@@ -20,9 +20,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#265](https://github.com/acmerindex/acmer-info/pull/265) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#266](https://github.com/acmerindex/acmer-info/issues/266) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#262](https://github.com/acmerindex/acmer-info/issues/262) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. ℹ️ Labeled issue [#262](https://github.com/acmerindex/acmer-info/issues/262) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. ❗ Opened issue [#262](https://github.com/acmerindex/acmer-info/issues/262) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. ❗ Opened issue [#1134](https://github.com/hydro-dev/Hydro/issues/1134) in [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro)
+2. ❌ Closed PR [#265](https://github.com/acmerindex/acmer-info/pull/265) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🔒 Closed issue [#266](https://github.com/acmerindex/acmer-info/issues/266) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#262](https://github.com/acmerindex/acmer-info/issues/262) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. ℹ️ Labeled issue [#262](https://github.com/acmerindex/acmer-info/issues/262) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
