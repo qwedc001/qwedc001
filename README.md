@@ -4,7 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qwedc001&label=Profile%20views&color=0e75b6&style=flat" alt="qwedc001" /> </p>
 
-- 🌱 I’m currently learning **Competitive Programming and Artificial Intelligence**
+- 💡 I'm a retired ACMer / ICPC Asia-East Continental Regional Bronze medalist.
+- 🌱 I’m currently working as an intern at Xiaohongshu.
 - 📝 I sometimes write articles on [https://qwedc001.github.io](https://qwedc001.github.io)
 
 ## Working Environment
