@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/FrexCheat/snake/issues/1) in [FrexCheat/snake](https://github.com/FrexCheat/snake)
-2. 🗣 Commented on [#275](https://github.com/acmerindex/acmer-info/issues/275#issuecomment-4072144464) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. ❌ Closed PR [#276](https://github.com/acmerindex/acmer-info/pull/276) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#276](https://github.com/acmerindex/acmer-info/pull/276#issuecomment-4072141208) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🔒 Closed issue [#273](https://github.com/acmerindex/acmer-info/issues/273) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🔒 Closed issue [#279](https://github.com/acmerindex/acmer-info/issues/279) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ❗ Opened issue [#1](https://github.com/FrexCheat/snake/issues/1) in [FrexCheat/snake](https://github.com/FrexCheat/snake)
+3. 🗣 Commented on [#275](https://github.com/acmerindex/acmer-info/issues/275#issuecomment-4072144464) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. ❌ Closed PR [#276](https://github.com/acmerindex/acmer-info/pull/276) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🗣 Commented on [#276](https://github.com/acmerindex/acmer-info/pull/276#issuecomment-4072141208) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
