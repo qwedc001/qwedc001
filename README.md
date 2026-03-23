@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#33830](https://github.com/langgenius/dify/pull/33830#issuecomment-4098476696) in [langgenius/dify](https://github.com/langgenius/dify)
-2. 🗣 Commented on [#33830](https://github.com/langgenius/dify/pull/33830#issuecomment-4098382872) in [langgenius/dify](https://github.com/langgenius/dify)
-3. 💪 Opened PR [#33830](https://github.com/langgenius/dify/pull/33830) in [langgenius/dify](https://github.com/langgenius/dify)
-4. 🗣 Commented on [#33810](https://github.com/langgenius/dify/issues/33810#issuecomment-4096325045) in [langgenius/dify](https://github.com/langgenius/dify)
-5. 🗣 Commented on [#277](https://github.com/acmerindex/acmer-info/issues/277#issuecomment-4096236235) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🔒 Closed issue [#10](https://github.com/qwedc001/acmer-info/issues/10) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+2. 🔒 Closed issue [#8](https://github.com/qwedc001/acmer-info/issues/8) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+3. 🔒 Closed issue [#6](https://github.com/qwedc001/acmer-info/issues/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+4. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
+5. 🗣 Commented on [#33830](https://github.com/langgenius/dify/pull/33830#issuecomment-4098476696) in [langgenius/dify](https://github.com/langgenius/dify)
 <!--END_SECTION:activity-->
