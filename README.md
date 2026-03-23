@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/qwedc001/acmer-info/issues/10) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-2. 🔒 Closed issue [#8](https://github.com/qwedc001/acmer-info/issues/8) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-3. 🔒 Closed issue [#6](https://github.com/qwedc001/acmer-info/issues/6) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-4. 🔒 Closed issue [#5](https://github.com/qwedc001/acmer-info/issues/5) in [qwedc001/acmer-info](https://github.com/qwedc001/acmer-info)
-5. 🗣 Commented on [#33830](https://github.com/langgenius/dify/pull/33830#issuecomment-4098476696) in [langgenius/dify](https://github.com/langgenius/dify)
+1. 🔒 Closed issue [#290](https://github.com/acmerindex/acmer-info/issues/290) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. ℹ️ Labeled issue [#290](https://github.com/acmerindex/acmer-info/issues/290) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. ❗ Opened issue [#290](https://github.com/acmerindex/acmer-info/issues/290) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. ℹ️ Assigned issue [#290](https://github.com/acmerindex/acmer-info/issues/290) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. ℹ️ Assigned issue [#290](https://github.com/acmerindex/acmer-info/issues/290) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
