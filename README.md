@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. ℹ️ Labeled issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. ℹ️ Assigned issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🔒 Closed issue [#296](https://github.com/acmerindex/acmer-info/issues/296) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🔒 Closed issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. ℹ️ Labeled issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 4. ℹ️ Assigned issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 5. ℹ️ Assigned issue [#292](https://github.com/acmerindex/acmer-info/issues/292) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
