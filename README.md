@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#314](https://github.com/acmerindex/acmer-info/issues/314#issuecomment-4252222220) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🗣 Commented on [#315](https://github.com/acmerindex/acmer-info/pull/315#issuecomment-4252217119) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#310](https://github.com/acmerindex/acmer-info/issues/310) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🔒 Closed issue [#312](https://github.com/acmerindex/acmer-info/issues/312) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🔒 Closed issue [#307](https://github.com/acmerindex/acmer-info/issues/307) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🔒 Closed issue [#316](https://github.com/acmerindex/acmer-info/issues/316) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🗣 Commented on [#314](https://github.com/acmerindex/acmer-info/issues/314#issuecomment-4252222220) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#315](https://github.com/acmerindex/acmer-info/pull/315#issuecomment-4252217119) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#310](https://github.com/acmerindex/acmer-info/issues/310) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🔒 Closed issue [#312](https://github.com/acmerindex/acmer-info/issues/312) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
