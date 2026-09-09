@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#218](https://github.com/Aliothmoon/MAA-Meow/issues/218#issuecomment-5461618667) in [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow)
-2. 💪 Opened PR [#74](https://github.com/qwedc001/Peeper-Board-Generator/pull/74) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
-3. ❌ Closed PR [#315](https://github.com/acmerindex/acmer-info/pull/315) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🗣 Commented on [#318](https://github.com/acmerindex/acmer-info/pull/318#issuecomment-4277567700) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🎉 Merged PR [#360](https://github.com/acmerindex/acmer-info/pull/360) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 💪 Opened PR [#360](https://github.com/acmerindex/acmer-info/pull/360) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🗣 Commented on [#218](https://github.com/Aliothmoon/MAA-Meow/issues/218#issuecomment-5461618667) in [Aliothmoon/MAA-Meow](https://github.com/Aliothmoon/MAA-Meow)
+4. 💪 Opened PR [#74](https://github.com/qwedc001/Peeper-Board-Generator/pull/74) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
 5. 🔒 Closed issue [#316](https://github.com/acmerindex/acmer-info/issues/316) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
