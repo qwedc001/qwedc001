@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#367](https://github.com/acmerindex/acmer-info/issues/367) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#365](https://github.com/acmerindex/acmer-info/issues/365) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#369](https://github.com/acmerindex/acmer-info/issues/369) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. ❌ Closed PR [#372](https://github.com/acmerindex/acmer-info/pull/372) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🎉 Merged PR [#74](https://github.com/qwedc001/Peeper-Board-Generator/pull/74) in [qwedc001/Peeper-Board-Generator](https://github.com/qwedc001/Peeper-Board-Generator)
+1. 🔒 Closed issue [#373](https://github.com/acmerindex/acmer-info/issues/373) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+2. 🔒 Closed issue [#367](https://github.com/acmerindex/acmer-info/issues/367) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🔒 Closed issue [#365](https://github.com/acmerindex/acmer-info/issues/365) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#369](https://github.com/acmerindex/acmer-info/issues/369) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. ❌ Closed PR [#372](https://github.com/acmerindex/acmer-info/pull/372) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
