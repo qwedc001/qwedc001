@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#373](https://github.com/acmerindex/acmer-info/issues/373) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-2. 🔒 Closed issue [#367](https://github.com/acmerindex/acmer-info/issues/367) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🔒 Closed issue [#365](https://github.com/acmerindex/acmer-info/issues/365) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🔒 Closed issue [#369](https://github.com/acmerindex/acmer-info/issues/369) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. ❌ Closed PR [#372](https://github.com/acmerindex/acmer-info/pull/372) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+1. 🗣 Commented on [#1221](https://github.com/hydro-dev/Hydro/issues/1221#issuecomment-6146924640) in [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro)
+2. 🔒 Closed issue [#373](https://github.com/acmerindex/acmer-info/issues/373) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+3. 🔒 Closed issue [#367](https://github.com/acmerindex/acmer-info/issues/367) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+4. 🔒 Closed issue [#365](https://github.com/acmerindex/acmer-info/issues/365) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
+5. 🔒 Closed issue [#369](https://github.com/acmerindex/acmer-info/issues/369) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
 <!--END_SECTION:activity-->
