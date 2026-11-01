@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/qwedc001/OBot-ACM-next/pull/1) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
-2. ❌ Closed PR [#376](https://github.com/acmerindex/acmer-info/pull/376) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-3. 🗣 Commented on [#375](https://github.com/acmerindex/acmer-info/issues/375#issuecomment-6444714484) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-4. 🔒 Closed issue [#375](https://github.com/acmerindex/acmer-info/issues/375) in [acmerindex/acmer-info](https://github.com/acmerindex/acmer-info)
-5. 🗣 Commented on [#1221](https://github.com/hydro-dev/Hydro/issues/1221#issuecomment-6146924640) in [hydro-dev/Hydro](https://github.com/hydro-dev/Hydro)
+1. 🎉 Merged PR [#7](https://github.com/qwedc001/OBot-ACM-next/pull/7) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+2. 🗣 Commented on [#7](https://github.com/qwedc001/OBot-ACM-next/pull/7#issuecomment-6557426330) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+3. 💪 Opened PR [#7](https://github.com/qwedc001/OBot-ACM-next/pull/7) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+4. 🎉 Merged PR [#6](https://github.com/qwedc001/OBot-ACM-next/pull/6) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+5. 💪 Opened PR [#6](https://github.com/qwedc001/OBot-ACM-next/pull/6) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
 <!--END_SECTION:activity-->
