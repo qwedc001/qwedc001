@@ -21,9 +21,9 @@
 
 ## Recent Activities
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/qwedc001/OBot-ACM-next/pull/12) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
-2. 🗣 Commented on [#8](https://github.com/qwedc001/OBot-ACM-next/pull/8#issuecomment-6582088410) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
-3. 🗣 Commented on [#10](https://github.com/qwedc001/OBot-ACM-next/pull/10#issuecomment-6582206432) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
-4. 🗣 Commented on [#9](https://github.com/qwedc001/OBot-ACM-next/pull/9#issuecomment-6582000371) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
-5. 🎉 Merged PR [#11](https://github.com/qwedc001/OBot-ACM-next/pull/11) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+1. ❌ Closed PR [#13](https://github.com/qwedc001/OBot-ACM-next/pull/13) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+2. 🗣 Commented on [#13](https://github.com/qwedc001/OBot-ACM-next/pull/13#issuecomment-6675602508) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+3. 💪 Opened PR [#13](https://github.com/qwedc001/OBot-ACM-next/pull/13) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+4. 💪 Opened PR [#12](https://github.com/qwedc001/OBot-ACM-next/pull/12) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
+5. 🗣 Commented on [#8](https://github.com/qwedc001/OBot-ACM-next/pull/8#issuecomment-6582088410) in [qwedc001/OBot-ACM-next](https://github.com/qwedc001/OBot-ACM-next)
 <!--END_SECTION:activity-->
